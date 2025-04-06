@@ -1,0 +1,8 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+6006341,27,BENJAMIN,,BOSWELL,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,2001.0,135,Minneapolis,1785,MINNEAPOLIS W-9 P-04,9.0,1,3.0,4,62B,62,5,4,3.0,,,,,nan
+4383271,27,SOPHIA,,BUDREAU,,0,,,,,,,nan,,,,,2187609636,2024-11-05 00:00:00,1989.0,135,Minneapolis,1785,MINNEAPOLIS W-9 P-04,9.0,1,3.0,4,62B,62,5,4,3.0,,,,,nan
+6391156,27,MICHAEL,ROBERT,FOOTE,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,1981.0,135,Minneapolis,1785,MINNEAPOLIS W-9 P-04,9.0,1,3.0,4,62B,62,5,4,3.0,,,,,nan
+5766136,27,CHRISTIAN,THOMAS,HEARN,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,1996.0,135,Minneapolis,1440,MINNEAPOLIS W-2 P-06,2.0,1,1.0,4,60B,60,5,4,1.0,,,,,nan
+6591624,27,VALERIE,,JONES,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,2004.0,135,Minneapolis,1785,MINNEAPOLIS W-9 P-04,9.0,1,3.0,4,62B,62,5,4,3.0,,,,,nan
+6592687,27,DOMINIC,HENRY HARRISON,MAYOKOK,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,1996.0,135,Minneapolis,1785,MINNEAPOLIS W-9 P-04,9.0,1,3.0,4,62B,62,5,4,3.0,,,,,nan
+6041030,27,MARIA,,MELGOZA,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,1996.0,135,Minneapolis,1780,MINNEAPOLIS W-9 P-03,9.0,1,3.0,4,62B,62,5,4,3.0,,,,,nan

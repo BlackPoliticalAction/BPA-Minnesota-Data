@@ -1,0 +1,4 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+5935933,40,CARTER,JAMES,HOLTHAUS,,56900,243RD LN ,,,,MANKATO,MN,56001,,,,,,2020-09-23 00:00:00,2002.0,40,Kasota Twp,45,KASOTA TWP. P-1,,77,,1,18A,18,2,5,,6079,,,,56001
+2820554,40,GLEN,THOMAS,HOLTHAUS,,56900,243RD LN ,,,,MANKATO,MN,56001,,,,,5073174896,2020-11-03 00:00:00,1973.0,40,Kasota Twp,45,KASOTA TWP. P-1,,77,,1,18A,18,2,5,,6079,,0006614435,,56001
+2817987,40,LISA,MARIE,HOLTHAUS,,56900,243RD LN ,,,,MANKATO,MN,56001,,,,,5073861977,2012-11-06 00:00:00,1974.0,40,Kasota Twp,45,KASOTA TWP. P-1,,77,,1,18A,18,2,5,,6079,,0006431261,,56001

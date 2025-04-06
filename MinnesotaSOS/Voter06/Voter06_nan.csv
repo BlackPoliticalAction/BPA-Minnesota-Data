@@ -1,0 +1,5 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+5863939,2,JAMISON,BRUCE,BARKER,,0,,,,,,,nan,,,,,7636072417,2024-11-05 00:00:00,1999.0,106,St. Francis,3005,SAINT FRANCIS P-1,,15,,10,27B,27,6,1,,4001.0,,,,nan
+285454,2,LINDA,JEAN,JOHNSON,,0,,,,,,MN,nan,,,,,7632291377,2024-11-05 00:00:00,1949.0,90,Oak Grove,2505,OAK GROVE P-1,,15,,10,31B,31,6,2,,4001.0,,0002113148,,nan
+6637292,2,DAN,S,WHITE,,0,,,,,,,nan,,,,,6128503088,2024-11-05 00:00:00,1954.0,20,Blaine,340,BLAINE W-1 P-8,1.0,16,,10,32B,32,6,6,,4004.0,,,,nan
+3097737,86,RICHARD,KENNETH,DOBBELAIRE,JR,0,,,,,,,nan,,,,,7634644426,2024-11-05 00:00:00,1965.0,109,Monticello,128,MONTICELLO P3,,882,,10,29B,29,6,2,,4171.0,1330.0,0006135835,,nan

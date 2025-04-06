@@ -1,0 +1,8 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+2122649,62,ROGER,ANTHONY,BONFE,,0,,,,,,,nan,,,,,6512706633.0,2018-11-06 00:00:00,1937.0,140,St. Paul,750,ST. PAUL W-2 P-08,2.0,625,,2,65B,65,4,5,,,,0002925930,,nan
+3405720,62,BARBARA,,CARR,,0,,,,,,,nan,,,,,6516818341.0,2024-09-30 00:00:00,1971.0,120,Roseville,520,ROSEVILLE P-10,,623,,2,66A,66,4,2,,,,RA00026029,,nan
+2382621,62,CHELSEA,CHRISTINE,DEARMOND,,0,,,,,,,nan,,,,,6519681022.0,2024-11-05 00:00:00,1975.0,70,Maplewood,150,MAPLEWOOD P-03,,622,,2,44A,44,4,7,,,,0006230401,,nan
+2349989,62,RONALD,TYLER,DEARMOND,,0,,,,,,,nan,,,,,6519681296.0,2024-11-05 00:00:00,1973.0,70,Maplewood,150,MAPLEWOOD P-03,,622,,2,44A,44,4,7,,,,0005887033,,nan
+6584182,62,STEPHON,,TROTTER,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,1999.0,140,St. Paul,610,ST. PAUL W-1 P-08,1.0,625,,2,65A,65,4,4,,,,,,nan
+4791187,82,ELAYA,JEWELL,MARCUSON,,0,,,,,,,nan,,,,,6122809895.0,2024-11-05 00:00:00,1987.0,145,Oak Park Heights,225,OAK PARK HEIGHTS,,834,,10,33B,33,4,3,,4165.0,,,,nan
+1415376,82,WESLEY,NATHANIEL,ROSEN,SR,0,,,,,,,nan,,,,,6122809895.0,2024-11-05 00:00:00,1977.0,145,Oak Park Heights,225,OAK PARK HEIGHTS,,834,,10,33B,33,4,3,,4165.0,,0005862317,,nan

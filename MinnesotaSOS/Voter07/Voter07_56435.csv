@@ -1,0 +1,4 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+5784006,29,CHANDRA,MARIE,BUCK,,33614,COUNTY 113 ,,,,BACKUS,MN,56435,,,,,,2025-02-07 00:00:00,1995.0,20,Badoura Twp,20,BADOURA TWP.,,113,,9,5A,5,7,3,,8057,,,,56435
+670437,29,KATHLEEN,MARY,MOLINA,,10343,CASS LINE RD ,,,,BACKUS,MN,56435,,,,,2189473652,2016-11-08 00:00:00,1956.0,20,Badoura Twp,20,BADOURA TWP.,,113,,9,5A,5,7,3,,8057,,0006173520,,56435
+1632436,29,RAYMOND,CARL,PETERSON,,32848,COUNTY 113 ,,,,BACKUS,MN,56435,,,,,2186522519,2023-10-11 00:00:00,1955.0,20,Badoura Twp,20,BADOURA TWP.,,113,,9,5A,5,7,3,,8057,,0002269178,,56435

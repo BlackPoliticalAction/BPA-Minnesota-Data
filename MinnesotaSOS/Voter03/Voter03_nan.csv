@@ -1,0 +1,6 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+6582933,2,AMY,XIAO,CHRISTIAN,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,1971.0,5,Anoka,105,ANOKA P-1,,11,1.0,10,35A,35,3,1,,4001.0,,,,nan
+3207364,2,ANDREW,JOSEPH,CHRISTIAN,,0,,,,,,,nan,,,,,,2024-11-05 00:00:00,1974.0,5,Anoka,105,ANOKA P-1,,11,1.0,10,35A,35,3,1,,4001.0,,AN00002800,,nan
+948092,2,CHRISTIAN,PETER,CHRISTIAN,,0,,,,,,,nan,,,,,7634247068,2024-11-05 00:00:00,1955.0,5,Anoka,105,ANOKA P-1,,11,1.0,10,35A,35,3,1,,4001.0,,0003950868,,nan
+6657713,27,JAVAREY,CALEB,BRAWNER,,0,,,,,,,nan,,,,,6513345220,2024-11-05 00:00:00,2004.0,5,Bloomington,30,BLOOMINGTON W-1 P-06,1.0,271,,4,50B,50,3,5,5.0,,,,,nan
+6657832,27,MISTY,DIANNE,REED,,0,,,,,,,nan,,,,,6122220612,2024-11-05 00:00:00,1979.0,160,Mound,2265,MOUND P-2,,277,,4,45A,45,3,6,1.0,,,,,nan

@@ -1,0 +1,4 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+4503777,66,CHRISTOPHER,JAMES,MULERT,,24085,FOSSTON AVE ,,,,WARSAW,MN,55087,,,,,5074440553,2020-11-03 00:00:00,1989.0,45,Morristown Twp,70,MORRISTOWN TWP.,,2143,,3,19A,19,2,5,,7131,,,,55087
+4887281,66,NICOLE,MARY,MULERT,,24085,FOSSTON AVE ,,,,WARSAW,MN,55087,,,,,5074512924,2020-11-03 00:00:00,1994.0,45,Morristown Twp,70,MORRISTOWN TWP.,,2143,,3,19A,19,2,5,,7131,,,,55087
+2460108,66,JOHN,EDWIN,NUETZMAN,,23970,FOSSTON AVE ,,,,WARSAW,MN,55087,,,,,5076854231,1996-11-05 00:00:00,1970.0,45,Morristown Twp,70,MORRISTOWN TWP.,,2143,,3,19A,19,2,5,,7131,,0005814320,,55087

@@ -1,0 +1,3 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+2665591,59,VINCENT,GEORGE,ECKSTEIN,,529,41ST ST ,,,,IHLEN,MN,56140,,,,,5073484084,2012-07-17 00:00:00,1950.0,20,Eden Twp,20,EDEN TWP.,,2689,,5,21A,21,7,2,,5117,,0003778066,,56140
+2665589,59,KRISTIN,ANN,KALLSEN,,529,41ST ST ,,,,IHLEN,MN,56140,,,,,5073484084,2004-11-02 00:00:00,1953.0,20,Eden Twp,20,EDEN TWP.,,2689,,5,21A,21,7,2,,5117,,0003778063,,56140

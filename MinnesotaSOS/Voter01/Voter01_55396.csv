@@ -1,0 +1,4 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+4913151,52,ANDREW,NEIL,RASMUSSEN,,50833,340TH ST ,,,,WINTHROP,MN,55396,,,,,5073818603,2014-09-29 00:00:00,1989.0,10,Bernadotte Twp,10,BERNADOTTE TOWNSHIP,,2365,2.0,5,18A,18,1,2,,6103,,,,55396
+5201342,52,ELIAS,,WEBSTER,,52097,340TH ST ,,,,WINTHROP,MN,55396,,,,,,2018-09-25 00:00:00,1990.0,10,Bernadotte Twp,10,BERNADOTTE TOWNSHIP,,2365,2.0,5,18A,18,1,2,,6103,,,,55396
+4597398,52,JENNA,MARIE,WEBSTER,,52097,340TH ST ,,,,WINTHROP,MN,55396,,,,,5072277851,2022-06-02 00:00:00,1989.0,10,Bernadotte Twp,10,BERNADOTTE TOWNSHIP,,2365,2.0,5,18A,18,1,2,,6103,,,,55396

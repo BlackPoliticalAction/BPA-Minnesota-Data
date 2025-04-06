@@ -1,0 +1,7 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+5563502,25,CHERYL,ARLENE,PICKENS,,0,,,,,,,nan,,,,,,2024-09-03 00:00:00,1950.0,160,Zumbrota,210,ZUMBROTA P-1,,2805,,1,20B,20,1,4,,7049,,,,nan
+4289633,52,ADAM,GEORGE,HANSON-JOHNSON,,0,,,,,,,nan,,,,,2186280370,2024-11-05 00:00:00,1990.0,80,St. Peter,130,ST PETER W-2 P-1,2.0,508,,5,18A,18,1,2,,6103,,,,nan
+1963592,55,BRADLEY,ALAN,CHASE,,0,,,,,,,nan,,,,,5072826862,2024-08-13 00:00:00,1958.0,34,Eyota,35,EYOTA,,533,,3,20B,20,1,4,,7109,,0002994915,,nan
+5238186,74,JONATHAN,CHARLES,LANGNER,,0,,,,,,,nan,PO BOX 522,BLOOMING PRAIRIE,MN,55917,,2022-08-25 00:00:00,1995.0,10,Berlin Twp,10,BERLIN TWP,,2168,,3,23A,23,1,1,,7147,,,,nan
+1452659,74,JENNIFER,JANE,MODDER,,0,,,,,,,nan,PO BOX 193,ELLENDALE,MN,56026,6122062660,2022-08-23 00:00:00,1972.0,35,Ellendale,35,ELLENDALE,,2168,,3,23A,23,1,1,,7147,,0006008421,,nan
+5454341,85,MICHAEL,JAMES,COOK,,0,,,,,,,nan,,,,,5074747548,2024-11-05 00:00:00,1947.0,145,Winona,230,WINONA W-4 P-4,4.0,861,4.0,3,26A,26,1,1,,7169,,,,nan

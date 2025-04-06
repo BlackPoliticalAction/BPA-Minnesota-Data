@@ -1,0 +1,3 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+3579047,51,JARED,DAVID,BRAKE,,958,1ST ST ,,,,WILMONT,MN,56185,,,,,5073609433,2012-11-06 00:00:00,1985.0,55,Fenton Twp,55,FENTON TWP,,2169,,5,21A,21,7,3,,5101,,NB00001057,,56185
+5035586,51,JENNIFER,RENEE,BRAKE,,958,1ST ST ,,,,WILMONT,MN,56185,,,,,5079265998,2012-11-06 00:00:00,1979.0,55,Fenton Twp,55,FENTON TWP,,2169,,5,21A,21,7,3,,5101,,,,56185

@@ -1,0 +1,3 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+1458440,27,DANIEL,STEVEN,GEIS,,6040,107TH AVE N,,,,HANOVER,MN,55341,,,,,7634988369,2024-11-05 00:00:00,1980.0,75,Greenfield,1050,GREENFIELD P-01,,883,,4,37A,37,3,7,1.0,,,0006036080,,55341
+3946411,27,JOHN,STEVEN,GEIS,,6020,107TH AVE N,,,,HANOVER,MN,55341,,,,,7638075205,2024-11-05 00:00:00,1982.0,75,Greenfield,1050,GREENFIELD P-01,,883,,4,37A,37,3,7,1.0,,,,,55341

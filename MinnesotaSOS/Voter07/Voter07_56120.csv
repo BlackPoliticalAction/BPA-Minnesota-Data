@@ -1,0 +1,5 @@
+VoterId,CountyCode,FirstName,MiddleName,LastName,NameSuffix,HouseNumber,StreetName,UnitType,UnitNumber,Address2,City,State,ZipCode,MailAddress,MailCity,MailState,MailZipCode,PhoneNumber,RegistrationDate,DOBYear,StateMcdCode,McdName,PrecinctCode,PrecinctName,WardCode,School,SchSub,Judicial,Legislative,StateSen,Congressional,Commissioner,Park,SoilWater,Hospital,LegacyId,PermanentAbsentee,ZipCodePrefix
+6168037,17,MOLLY,MCGINNITY,BAHR,,39891,610TH AVE ,,,,BUTTERFIELD,MN,56120,,,,,,2022-04-01 00:00:00,1988.0,75,Mountain Lake Twp,85,MOUNTAIN LAKE TWP,,173,,5,21B,21,7,4,,5033,,,,56120
+6168036,17,PHILLIP,BRADLEY,BAHR,,39891,610TH AVE ,,,,BUTTERFIELD,MN,56120,,,,,7632344470,2022-04-01 00:00:00,1988.0,75,Mountain Lake Twp,85,MOUNTAIN LAKE TWP,,173,,5,21B,21,7,4,,5033,,,,56120
+715348,17,KEN,J,FAST,,38793,610TH AVE ,,,,BUTTERFIELD,MN,56120,,,,,5074273089,1988-06-28 00:00:00,1950.0,75,Mountain Lake Twp,85,MOUNTAIN LAKE TWP,,173,,5,21B,21,7,4,,5033,,0000437190,,56120
+715042,17,WENDY,L,FAST,,38793,610TH AVE ,,,,BUTTERFIELD,MN,56120,,,,,5074273089,1988-06-28 00:00:00,1951.0,75,Mountain Lake Twp,85,MOUNTAIN LAKE TWP,,173,,5,21B,21,7,4,,5033,,0000437320,,56120
